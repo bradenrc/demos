@@ -1,0 +1,19 @@
+Person,From,To,Date Depart,Date Return,Airport
+Braden,Seattle,Las Vegas,1/18/16,1/24/16,VGT
+Braden,Seattle,San Francisco,1/28/16,1/29/16,SFO
+Braden,Seattle,Boston,2/1/16,2/5/16,ZTY
+Braden,Seattle,Burbank,2/11/16,2/12/16,BUR
+Braden,Seattle,Tampa,2/22/16,2/24/16,TPA
+Braden,Seattle,Portland,2/28/16,2/28/16,PDX
+Braden,Seattle,Boise,3/9/16,3/12/16,BOI
+Braden,Seattle,Washington DC,3/14/16,3/15/16,IAD
+Braden,Seattle,San Jose,3/29/16,3/31/16,SJC
+Braden,Seattle,Baton Rouge,4/6/16,4/8/16,BTR
+Braden,Seattle,Boise,4/21/16,4/22/16,BOI
+Braden,Seattle,Denver,4/26/16,4/27/16,WSD
+Braden,Seattle,San Francisco,5/2/16,5/3/16,SFO
+Braden,Seattle,Denver,5/19/16,5/20/16,WSD
+Braden,Seattle,Omaha,6/1/16,6/2/16,OMA
+Braden,Seattle,San Francisco,6/6/16,6/9/16,SFO
+Braden,Seattle,Boise,6/21/16,6/22/16,BOI
+Braden,Boise,Lousiville,6/22/16,6/23/16,SDF
