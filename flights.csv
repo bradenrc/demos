@@ -23,3 +23,8 @@ Braden,Boise,Minnesota,6/22/16,6/23/16,BOI,MSP
 Braden,Minnesota,Louisville,6/22/16,6/23/16,MSP,SDF
 Braden,Louisville,Detroit,6/22/16,6/23/16,SDF,DTW
 Braden,Detroit,Seattle,6/22/16,6/23/16,DTW,SEA
+Rich,Providence,"Rochester, NY",4/27/16,4/28/16,PVD,ROC
+Rich,Providence,Atlanta,5/16/16,,PVD,ATL
+Rich,Atlanta,Jacksonville,5/18/16,,ATL ,JAX
+Rich,Jacksonville,Providence,,5/20/16,JAX,PVD
+Rich,Providence,Philadelphia,6/1/16,6/3/16,PVD,PHL
