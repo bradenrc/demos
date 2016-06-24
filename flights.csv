@@ -10,8 +10,8 @@ Braden,Seattle,Washington DC,3/14/16,3/15/16,SEA,IAD
 Braden,Seattle,San Jose,3/29/16,3/31/16,SEA,SJC
 Braden,Seattle,Houston,4/6/16,4/8/16,SEA,IAH
 Braden,Houston,Baton Rouge,4/6/16,4/8/16,IAH,BTR
-Braden,Baton Rouge,Dallas,4/6/16,4/8/16,BTR,DTW
-Braden,Dallas,Seattle,4/6/16,4/8/16,DTW,SEA
+Braden,Baton Rouge,Dallas,4/6/16,4/8/16,BTR,DFW
+Braden,Dallas,Seattle,4/6/16,4/8/16,DFW,SEA
 Braden,Seattle,Boise,4/21/16,4/22/16,SEA,BOI
 Braden,Seattle,Denver,4/26/16,4/27/16,SEA,DEN
 Braden,Seattle,San Francisco,5/2/16,5/3/16,SEA,SFO
@@ -19,5 +19,7 @@ Braden,Seattle,Denver,5/19/16,5/20/16,SEA,DEN
 Braden,Seattle,Omaha,6/1/16,6/2/16,SEA,OMA
 Braden,Seattle,San Francisco,6/6/16,6/9/16,SEA,SFO
 Braden,Seattle,Boise,6/21/16,6/22/16,SEA,BOI
-Braden,Boise,Minnesota,6/22/16,6/23/16,SEA,MSP
+Braden,Boise,Minnesota,6/22/16,6/23/16,BOI,MSP
 Braden,Minnesota,Louisville,6/22/16,6/23/16,MSP,SDF
+Braden,Louisville,Detroit,6/22/16,6/23/16,SDF,DTW
+Braden,Detroit,Seattle,6/22/16,6/23/16,DTW,SEA
